@@ -9,8 +9,7 @@ redirect_from:
 
 I'm a Ph.D. Candidate from [School of CIT](https://cs.bjtu.edu.cn/index.htm), [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research interest includes computer vision, multimodal knowledge graph, machine learning, and vision-language model.
 
-I am very fortunate to be advised by [Prof. Zhenfeng Zhu](http://faculty.bjtu.edu.cn/7817/) of MePro Lab from [School of Computer Science & Technology](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](http://mepro.bjtu.edu.cn/), Beijing Jiaotong University.
-————————————————
+I am very fortunate to be advised by [Prof. Zhenfeng Zhu](http://faculty.bjtu.edu.cn/7817/) of MePro Lab from [School of Computer Science & Technology](http://mepro.bjtu.edu.cn/), Beijing Jiaotong University.
 
 A data-driven personal website
 ======
